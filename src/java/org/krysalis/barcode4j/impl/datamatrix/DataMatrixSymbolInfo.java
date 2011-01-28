@@ -18,7 +18,7 @@
 
 package org.krysalis.barcode4j.impl.datamatrix;
 
-import java.awt.Dimension;
+import org.krysalis.barcode4j.compat.Dimension;
 
 /**
  * Symbol info table for DataMatrix.

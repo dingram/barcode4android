@@ -18,7 +18,7 @@
 
 package org.krysalis.barcode4j.impl.pdf417;
 
-import java.awt.Dimension;
+import org.krysalis.barcode4j.compat.Dimension;
 
 import org.krysalis.barcode4j.BarGroup;
 import org.krysalis.barcode4j.ClassicBarcodeLogicHandler;

@@ -15,7 +15,7 @@
  */
 package org.krysalis.barcode4j;
 
-import java.awt.geom.Rectangle2D;
+import org.krysalis.barcode4j.compat.Rectangle2D;
 
 /**
  * This class provides information on the dimensions of a barcode. It makes a

@@ -15,7 +15,7 @@
  */
 package org.krysalis.barcode4j.impl.datamatrix;
 
-import java.awt.Dimension;
+import org.krysalis.barcode4j.compat.Dimension;
 import java.io.IOException;
 
 import org.krysalis.barcode4j.BarcodeDimension;
