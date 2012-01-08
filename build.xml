@@ -348,6 +348,7 @@
         <exclude name="org/krysalis/barcode4j/impl/ConfigurableBarcodeGenerator.class"/>
         <exclude name="org/krysalis/barcode4j/impl/codabar/Codabar.class"/>
         <exclude name="org/krysalis/barcode4j/impl/code39/Code39.class"/>
+        <exclude name="org/krysalis/barcode4j/impl/code93/Code93.class"/>
         <exclude name="org/krysalis/barcode4j/impl/code128/Code128.class"/>
         <exclude name="org/krysalis/barcode4j/impl/code128/EAN128.class"/>
         <exclude name="org/krysalis/barcode4j/impl/int2of5/Interleaved2Of5.class"/>

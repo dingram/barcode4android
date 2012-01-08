@@ -38,6 +38,7 @@ public class DefaultBarcodeClassResolver implements BarcodeClassResolver {
     public DefaultBarcodeClassResolver() {
         registerBarcodeClass("codabar", "org.krysalis.barcode4j.impl.codabar.Codabar", true);
         registerBarcodeClass("code39", "org.krysalis.barcode4j.impl.code39.Code39", true);
+        registerBarcodeClass("code93", "org.krysalis.barcode4j.impl.code93.Code93", true);
         registerBarcodeClass("code128", "org.krysalis.barcode4j.impl.code128.Code128", true);
         registerBarcodeClass("ean-128", "org.krysalis.barcode4j.impl.code128.EAN128", true);
         registerBarcodeClass("ean128", "org.krysalis.barcode4j.impl.code128.EAN128");
